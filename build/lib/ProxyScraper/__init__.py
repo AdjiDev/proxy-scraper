@@ -1,1 +1,0 @@
-from ._adjisan_scraper import GetProxy
