@@ -1,6 +1,17 @@
-# Adjidev proxy scraper
+Metadata-Version: 2.1
+Name: adjisan-proxy-scraper
+Version: 0.1.1
+Summary: Scrape fast HTTP, HTTPS, SOCKS4, and SOCKS5 proxies.
+Home-page: https://github.com/adjidev/proxyscraper
+Author: adjisan
+Author-email: hello.adjisan@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
 
-![Image](./thumb/OIP.jpg)
+# Adjidev proxy scraper
 
 > ===================================
 # Guide
@@ -15,7 +26,7 @@ Let's get started if you don't know about my project
 - install python if python is not installed [click here](https://www.python.org/ftp/python/3.13.1/python-3.13.1-amd64.exe)
 - install my pypi packages
   ```powershell
-  python -m pip install adjisan_proxy_scraper
+  python -m pip install adjisan-proxy-scraper
   ```
 
 ### for debian based linux
@@ -25,7 +36,7 @@ Let's get started if you don't know about my project
   ```
 - install my pypi package
   ```bash
-  pip install adjisan_proxy_scraper
+  pip install adjisan-proxy-scraper
   ```
 
 ### for arch based linux
@@ -35,7 +46,7 @@ Let's get started if you don't know about my project
   ```
 - install my pypi packages
   ```bash
-  pip install adjisan_proxy_scraper
+  pip install adjisan-proxy-scraper
   ```
 
 ### for red hat based linux
@@ -45,7 +56,7 @@ Let's get started if you don't know about my project
   ```
 - install my pypi packages
   ```bash
-  pip install adjisan_proxy_scraper
+  pip install adjisan-proxy-scraper
   ```
 
 ## EXAMPLE
@@ -65,9 +76,3 @@ Let's get started if you don't know about my project
   ```
 
 > ===================================
-## EXTRA
-> - My social account
-
-[TELEGRAM](https://t.me/adjidev)
-
-[SITES](https://www.ailibytes.xyz)
